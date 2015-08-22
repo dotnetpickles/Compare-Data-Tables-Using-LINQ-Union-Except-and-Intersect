@@ -1,0 +1,6 @@
+D:\Personal Workspace\Miracle Box\CompareDataTablesExample\CompareDataTablesExample\bin\Debug\CompareDataTablesExample.exe.config
+D:\Personal Workspace\Miracle Box\CompareDataTablesExample\CompareDataTablesExample\bin\Debug\CompareDataTablesExample.exe
+D:\Personal Workspace\Miracle Box\CompareDataTablesExample\CompareDataTablesExample\bin\Debug\CompareDataTablesExample.pdb
+D:\Personal Workspace\Miracle Box\CompareDataTablesExample\CompareDataTablesExample\obj\Debug\CompareDataTablesExample.csprojResolveAssemblyReference.cache
+D:\Personal Workspace\Miracle Box\CompareDataTablesExample\CompareDataTablesExample\obj\Debug\CompareDataTablesExample.exe
+D:\Personal Workspace\Miracle Box\CompareDataTablesExample\CompareDataTablesExample\obj\Debug\CompareDataTablesExample.pdb
